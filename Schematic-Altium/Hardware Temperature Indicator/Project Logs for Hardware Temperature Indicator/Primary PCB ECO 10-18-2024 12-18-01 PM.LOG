@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=R5 Old Footprint=FP-CRGCQ1206-IPC_C New Footprint=RESC3116X65X40LL10T20
+Change Managed Component Library Link : Designator=R5 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=67367721-BB8D-41CD-BC6C-315780B9AF36 New ItemGUID=B05AEEF9-21DE-400E-9606-27F739A6AF1B Old RevisionGUID=FFBD2F0E-5246-4328-B831-3B0BDAFD7DEE New RevisionGUID=5A27CCB6-BD59-4075-B789-2DC59CD5583B
+Change component parameters: Designator = "R5" ("R5"); Footprint = "FP-CRGCQ1206-IPC_C"; UniqueID = "\CCKYIYLF" ("\CCKYIYLF")
+Change component parameters (AddParameter): Name = "Case Code - in"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case Code - mm"; Value = "3216"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.1 x 1.6 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW(1/4W)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "330Ohms"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "200V"; VariantName = "[No Variations]"
